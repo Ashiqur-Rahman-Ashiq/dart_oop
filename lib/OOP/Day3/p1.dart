@@ -1,6 +1,3 @@
-
-import 'package:dart_programming/OOP/Day2/p2.dart';
-
 void main() {
 
   User customer = User(

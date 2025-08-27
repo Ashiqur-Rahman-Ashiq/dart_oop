@@ -1,6 +1,4 @@
-//Gpt code
-
-
+// Gpt code
 // hospital.dart
 
 class Appointment {
